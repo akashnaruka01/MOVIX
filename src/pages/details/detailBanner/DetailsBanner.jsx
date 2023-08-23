@@ -145,7 +145,6 @@ const DetailsBanner = ({ video, crew }) => {
                   </div>
                 </div>
                 <VideoPopup show={show} setShow={setShow} videoId={videoId} setVideoId={setVideoId}>
-
                 </VideoPopup>
               </ContentWrapper>
             </React.Fragment>
