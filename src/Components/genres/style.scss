@@ -1,0 +1,16 @@
+.genres{
+    // z-index: 1000 !important;
+    // // font-size: 2rem !important;
+    display: flex;
+    // flex-direction: column;
+    gap: 5px;
+    .genre {
+        background-color: var(--pink);
+        padding: 3px 5px;
+        font-size: 12px;
+        border-radius: 4px;
+        color: white;
+        white-space: nowrap;
+    }
+    
+}
