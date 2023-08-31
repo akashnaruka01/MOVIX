@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import dayjs from "dayjs"; // avaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API
 
-import ContentWrapper from "../contentWrapper/ContentWrapper";
+import ContentWrapper from "../../contentWrapper/ContentWrapper";
 import Img from "../lazyLoadImage/Img";
 import PosterFallback from "../../Assests/no-poster.png";
 import "./style.scss";

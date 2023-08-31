@@ -6,7 +6,7 @@ import "./style.scss";
 // importing various components.
 import useFetch from "../../../hooks/useFetch";
 import Img from "../../../Components/lazyLoadImage/Img";
-import ContentWrapper from "../../../Components/contentWrapper/ContentWrapper";
+import ContentWrapper from "../../../contentWrapper/ContentWrapper";
 
 const HeroBanner = () => {
   const [background, setBackground] = useState("");
