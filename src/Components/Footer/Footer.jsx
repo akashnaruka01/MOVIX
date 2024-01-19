@@ -23,12 +23,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                    Welcome to our immersive world of entertainment at [Website Name], where every click opens the gateway to a captivating cinematic and television experience. Dive into a vast ocean of movies and TV shows curated just for you, spanning genres from heart-pounding action to heartwarming romance.
                 </div>
                 <div className="socialIcons">
                     <a href="https://www.facebook.com/akash.naruka.71" className="icon">
